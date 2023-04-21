@@ -149,19 +149,19 @@
 }
 
 .works-slide-1 {
-  background-image: url("https://dummyimage.com/1920x1080/6b388f/b168e6");
+  background-image: url("../img/team/img_1.jpg");
 }
 
 .works-slide-2 {
-  background-image: url("https://dummyimage.com/1920x1080/6b388f/b168e6");
+  background-image: url("../img/team/img_2.jpg");
 }
 
 .works-slide-3 {
-  background-image: url("https://dummyimage.com/1920x1080/6b388f/b168e6");
+  background-image: url("../img/team/img_3.jpg");
 }
 
 .about-intro {
-  background-image: url("https://dummyimage.com/1920x1080/4c2766/562e73");
+  background-image: url("../img/backgrounds/bg-about-half.png");
 }
 
 .works-intro {
@@ -211,11 +211,11 @@
 }
 
 .image-block-3 {
-  background-image: url("https://dummyimage.com/1200x800/6b388f/b168e6");
+  background-image: url("../img/team/img_1.jpg");
 }
 
 .image-block-4 {
-  background-image: url("https://dummyimage.com/1200x800/6b388f/b168e6");
+  background-image: url("../img/team/img_5.jpg");
 }
 
 .inner-video {
